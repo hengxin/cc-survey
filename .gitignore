@@ -276,3 +276,5 @@ TSWLatexianTemp*
 *.lpz
 
 .history/
+*.tmp
+~$-survey.docx
